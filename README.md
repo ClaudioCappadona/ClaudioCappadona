@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ClaudioCappadona
 - 👀 I’m interested in Science, Technology, Music and Sustainability
+- 👨‍💻 Working on multi-omics in molecular epidemiology/bioinformatics
 - 🌱 I’m currently learning inferential statistics for Machine Learning
 - 📫 How to reach me cappadona.claudio@gmail.com
 
